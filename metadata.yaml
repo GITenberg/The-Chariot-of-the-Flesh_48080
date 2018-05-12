@@ -1,10 +1,16 @@
 _repo: The-Chariot-of-the-Flesh_48080
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48080-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Peek, Hedley
     gutenberg_agent_id: '44611'
     url: http://www.gutenberg.org/2009/agents/44611
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48080#The-Chariot-of-the-Flesh
 gutenberg_issued: '2015-01-25'
 gutenberg_type: Text
 identifiers:
